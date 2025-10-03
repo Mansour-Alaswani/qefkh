@@ -1,0 +1,226 @@
+        body{
+            background: rgba(177, 123, 24, 0.784);
+        }
+
+        .center{
+            margin-top: 30px;
+            padding-top: 50px;
+            text-align: center;
+            height: 540px;
+            align-items: center;
+            background:  #61d1f0c4;
+            border-radius: 50px;
+            display: none;
+        }
+        input{
+            margin: 8px;
+            padding: 5px;
+            text-align: center;
+            border:none;
+            background: #dbdbdb;
+            
+        }
+        h1{
+            text-align: center;
+            border-radius: 10px;
+            margin-left: 15px;
+            margin-right: 15px;
+            font-size: 20px;
+        }
+
+        h2{
+            margin: 10px;
+        }
+
+        #cccc , #Delete ,#q1{
+            background: red;
+            color: wheat;
+            border-radius: 5px;
+            border: none;
+            width: 60px;
+            height: 25px;
+        }
+
+
+
+        #butt ,#but ,#but3{
+            background: rgb(60, 136, 2);
+            color: rgb(0, 0, 0);
+            border-radius: 5px;
+            border: none;
+            width: 60px;
+            height: 25px;
+        }
+
+
+            .home{
+            margin-top: 30px;
+            padding-top: 50px;
+            text-align: center;
+            height: 350px;
+            align-items: center;
+            background: #61d1f0c4;
+            border-radius: 50px;
+            display: none;
+            font-size: 25px;
+        }
+            #Bot{
+            width: 100%;
+            text-align: center;
+            position: fixed;
+            bottom: 0px;
+            margin-right: 5px;
+            margin-left: -8px;
+        }
+            .d1{
+            right: 20px;
+            background: rgba(43, 255, 0, 0.737);
+            text-decoration: none;
+            border-radius: 50px;
+            margin: 10px;
+            padding: 10px;
+            transition: .2s;
+            border: none;
+        }
+        .d1:hover{
+            font-size: 22px;
+        }
+        .d2:hover{
+            font-size: 22px;
+        }
+        .d3:hover{
+            font-size: 22px;
+        }
+        .d2{
+            
+            text-align: center;
+            background: rgb(0, 157, 255);
+            text-decoration: none;
+            border-radius: 50px;
+            margin: 10px;
+            padding: 10px;
+            transition: .2s;
+            border: none;
+        }
+        .d3{
+            left: 20px;
+            background: rgb(255, 208, 0);
+            text-decoration: none;
+            border-radius: 50px;
+            margin: 10px;
+            padding: 10px;
+            transition: .2s;
+            border: none;
+
+        }
+        #d1:hover{
+            padding: 15px;
+        }
+
+      
+
+
+
+
+                .maaan{
+            width: 60%;
+            margin: auto;
+            margin-top: 200px;
+        }
+        a{
+            display: block;
+            margin:10px;
+            padding: 20px;
+            background: #b99804e6;
+            text-decoration: none;
+            border-radius: 50px 0;
+            font-size: 20px;
+        }
+        a:hover{
+            display: block;
+            margin:10px;
+            padding: 20px;
+            background: #b99804e6;
+            text-decoration: none;
+            border-radius: 30px 0;
+            font-size: 25px;
+        }
+                #d1{
+            position: fixed;
+            bottom: 10px;
+            right: 20px;
+            background: rgb(255, 208, 0);
+            text-decoration: none;
+            border-radius: 50px;
+            margin: 10px;
+            padding: 10px;
+            transition: .2s;
+        }
+        #d1:hover{
+            padding: 15px;
+        }
+        #imj{
+            width: 95%;
+            border-radius: 10px;
+        }
+        #Masour{
+            display: none;
+        }
+
+        .Masour{
+            margin-top: 30px;
+            padding-top: 50px;
+            text-align: center;
+            height: 600px;
+            align-items: center;
+            background:  #61d1f0c4;
+            border-radius: 50px;
+            display: none;
+            font-size: 25px;
+
+
+        }
+
+        img{
+            width: 200px;
+            margin: auto;
+            border-radius: 1000px;
+        }
+        .emee{
+            text-align: center;
+            margin-top: 150px;
+        }
+
+        .clbs{
+            display: none;
+            background: rgb(220, 186, 51);
+            text-align: center;
+        }
+
+        .bbt{
+            right: 20px;
+            background: rgba(43, 255, 0, 0.737);
+            text-decoration: none;
+            border-radius: 50px;
+            margin: 10px;
+            padding: 10px;
+            transition: .2s;
+            border: none;
+
+        }
+        .d4{
+            right: 20px;
+            background: #4341debc;
+            text-decoration: none;
+            border-radius: 50px;
+            margin: 10px;
+            padding: 10px;
+            transition: .2s;
+            border: none;
+            
+        }
+
+        .d4:hover{
+            font-size: 22px;
+
+        }
